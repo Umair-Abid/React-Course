@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React-Course/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/React-Course/static/js/main.66ee4b3f.chunk.js",
+    "main.js.map": "/React-Course/static/js/main.66ee4b3f.chunk.js.map",
+    "runtime~main.js": "/React-Course/static/js/runtime~main.cb75bc85.js",
+    "runtime~main.js.map": "/React-Course/static/js/runtime~main.cb75bc85.js.map",
+    "static/js/2.624f555d.chunk.js": "/React-Course/static/js/2.624f555d.chunk.js",
+    "static/js/2.624f555d.chunk.js.map": "/React-Course/static/js/2.624f555d.chunk.js.map",
+    "static/js/3.0ad1fd9d.chunk.js": "/React-Course/static/js/3.0ad1fd9d.chunk.js",
+    "static/js/3.0ad1fd9d.chunk.js.map": "/React-Course/static/js/3.0ad1fd9d.chunk.js.map",
+    "index.html": "/React-Course/index.html",
+    "precache-manifest.98cd4d193f243639b71ae8d806914f98.js": "/React-Course/precache-manifest.98cd4d193f243639b71ae8d806914f98.js",
+    "service-worker.js": "/React-Course/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/React-Course/static/css/main.5ecd60fb.chunk.css.map"
+  }
+}
